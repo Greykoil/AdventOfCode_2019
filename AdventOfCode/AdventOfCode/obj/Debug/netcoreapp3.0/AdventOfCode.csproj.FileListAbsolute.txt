@@ -1,0 +1,17 @@
+C:\Users\Alex.Spencer\source\repos\AdventOfCode\AdventOfCode\bin\Debug\netcoreapp3.0\AdventOfCode.exe
+C:\Users\Alex.Spencer\source\repos\AdventOfCode\AdventOfCode\bin\Debug\netcoreapp3.0\AdventOfCode.deps.json
+C:\Users\Alex.Spencer\source\repos\AdventOfCode\AdventOfCode\bin\Debug\netcoreapp3.0\AdventOfCode.runtimeconfig.json
+C:\Users\Alex.Spencer\source\repos\AdventOfCode\AdventOfCode\bin\Debug\netcoreapp3.0\AdventOfCode.runtimeconfig.dev.json
+C:\Users\Alex.Spencer\source\repos\AdventOfCode\AdventOfCode\bin\Debug\netcoreapp3.0\AdventOfCode.dll
+C:\Users\Alex.Spencer\source\repos\AdventOfCode\AdventOfCode\bin\Debug\netcoreapp3.0\AdventOfCode.pdb
+C:\Users\Alex.Spencer\source\repos\AdventOfCode\AdventOfCode\obj\Debug\netcoreapp3.0\AdventOfCode.csprojAssemblyReference.cache
+C:\Users\Alex.Spencer\source\repos\AdventOfCode\AdventOfCode\obj\Debug\netcoreapp3.0\AdventOfCode.AssemblyInfoInputs.cache
+C:\Users\Alex.Spencer\source\repos\AdventOfCode\AdventOfCode\obj\Debug\netcoreapp3.0\AdventOfCode.AssemblyInfo.cs
+C:\Users\Alex.Spencer\source\repos\AdventOfCode\AdventOfCode\obj\Debug\netcoreapp3.0\AdventOfCode.dll
+C:\Users\Alex.Spencer\source\repos\AdventOfCode\AdventOfCode\obj\Debug\netcoreapp3.0\AdventOfCode.pdb
+C:\Users\Alex.Spencer\source\repos\AdventOfCode\AdventOfCode\bin\Debug\netcoreapp3.0\Inputs\Day2Input.txt
+C:\Users\Alex.Spencer\source\repos\AdventOfCode\AdventOfCode\bin\Debug\netcoreapp3.0\Inputs\Day6Input.txt
+C:\Users\Alex.Spencer\source\repos\AdventOfCode\AdventOfCode\bin\Debug\netcoreapp3.0\Inputs\Day5Input.txt
+C:\Users\Alex.Spencer\source\repos\AdventOfCode\AdventOfCode\bin\Debug\netcoreapp3.0\Inputs\Day7Input.txt
+C:\Users\Alex.Spencer\source\repos\AdventOfCode\AdventOfCode\bin\Debug\netcoreapp3.0\Inputs\Day8Input.txt
+C:\Users\Alex.Spencer\source\repos\AdventOfCode\AdventOfCode\bin\Debug\netcoreapp3.0\Inputs\Day10Input.txt
